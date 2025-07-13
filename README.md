@@ -133,13 +133,3 @@ MIT License
 If you found this useful, give it a ⭐️ on GitHub and share!
 
 ```
-
----
-
-Let me know if you'd like:
-- A version with badges (Colab, License, Stars)
-- Deployment instructions (e.g., Hugging Face Spaces)
-- `inference.py` file for prediction
-
-I'll help you polish the full repo.
-```
