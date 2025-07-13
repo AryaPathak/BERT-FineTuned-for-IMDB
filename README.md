@@ -126,10 +126,3 @@ MIT License
 * 📚 [IMDB Dataset](https://huggingface.co/datasets/imdb)
 * 🧠 [TensorFlow](https://www.tensorflow.org/)
 
----
-
-## ⭐️ Show Your Support
-
-If you found this useful, give it a ⭐️ on GitHub and share!
-
-```
